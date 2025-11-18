@@ -1,2 +1,0 @@
-# CSAC
-webpage and updates
